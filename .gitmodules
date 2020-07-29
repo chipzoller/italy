@@ -1,0 +1,3 @@
+[submodule "themes/vatican"]
+	path = themes/vatican
+	url = https://github.com/chipzoller/vatican
